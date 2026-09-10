@@ -1,10 +1,17 @@
-// 127 ms | 19 MB
+// 39 ms | 19.1 MB
 class Solution(object):
     def maxProfit(self, prices):
         buy = prices[0]
         profit = 0
+
         for price in prices:
-            buy = min(buy, price)
-            profit = max(profit, price-buy)
+            if price < buy:
+                buy = price
+
+            current_profit = price - buy
+
+            if current_profit > profit:
+                profit = current_profit
+
         return profit
          
