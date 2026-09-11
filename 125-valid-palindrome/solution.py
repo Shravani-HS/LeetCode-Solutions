@@ -1,10 +1,10 @@
-// 287 ms | 13.2 MB
+// 239 ms | 13.1 MB
 class Solution(object):
     def isPalindrome(self, s):
         new = ""
         for char in s:
             if char.isalnum():
                 new += char.lower()
-        return new == new[::-1]
-
-        
+        if new == new[::-1]:
+            return True
+        return False
