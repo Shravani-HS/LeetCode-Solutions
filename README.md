@@ -9,11 +9,11 @@ Solved: 10 (Easy: 6, Medium: 4, Hard: 0)
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-09-16 |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-09-16 |
 | 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-09-16 |
+| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-16 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-09-16 |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | Medium | 2026-09-16 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-16 |
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-09-16 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-16 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-16 |
-| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-16 |
 <!-- LEETHUB:TABLE:END -->
