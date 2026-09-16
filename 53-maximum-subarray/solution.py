@@ -1,9 +1,21 @@
-// 89 ms | 21 MB
+// 15 ms | 22 MB
 class Solution(object):
     def maxSubArray(self, nums):
-        current_sum = nums[0]
-        max_sum = nums[0]
-        for num in nums[1:]:
-            current_sum = max(num, current_sum+num)
-            max_sum = max(max_sum, current_sum)
-        return max_sum
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        l = len(nums)
+
+        if l == 1:
+            return nums[0]
+        
+        m = nums[0]
+        sum = 0
+        for i in nums:
+            sum += i
+            if i>sum:
+                sum = i
+            if sum > m:   
+                m = sum
+        return m
