@@ -9,6 +9,7 @@ Solved: 13 (Easy: 7, Medium: 6, Hard: 0)
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-09-22 |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-09-22 |
 | 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-09-22 |
+| 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-22 |
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring/) | Medium | 2026-09-22 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-22 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-22 |
@@ -18,5 +19,4 @@ Solved: 13 (Easy: 7, Medium: 6, Hard: 0)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-09-22 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-22 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-22 |
-| 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-22 |
 <!-- LEETHUB:TABLE:END -->
