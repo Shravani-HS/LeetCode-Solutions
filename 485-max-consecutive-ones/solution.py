@@ -1,4 +1,4 @@
-// 35 ms | 13.4 MB
+// 11 ms | 13.6 MB
 class Solution(object):
     def findMaxConsecutiveOnes(self, nums):
         count = 0
@@ -6,8 +6,8 @@ class Solution(object):
         for num in nums:
             if num == 1:
                 count += 1
-                max_count = max(count, max_count) 
             else:
+                max_count = max(count, max_count) 
                 count = 0
-        return max_count           
+        return max(count, max_count)           
         
