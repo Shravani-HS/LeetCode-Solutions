@@ -11,6 +11,7 @@ Solved: 17 (Easy: 10, Medium: 7, Hard: 0)
 | 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-09-26 |
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-26 |
 | 5 | [Longest Palindromic Substring](5-longest-palindromic-substring/) | Medium | 2026-09-26 |
+| 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-09-26 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-26 |
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-09-26 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-26 |
@@ -22,5 +23,4 @@ Solved: 17 (Easy: 10, Medium: 7, Hard: 0)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-09-26 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-26 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-26 |
-| 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-09-26 |
 <!-- LEETHUB:TABLE:END -->
