@@ -14,6 +14,7 @@ Solved: 18 (Easy: 11, Medium: 7, Hard: 0)
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-09-27 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-27 |
 | 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-09-27 |
+| 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-27 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-27 |
 | 238 | [Product of Array Except Self](238-product-of-array-except-self/) | Medium | 2026-09-27 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-09-27 |
@@ -23,5 +24,4 @@ Solved: 18 (Easy: 11, Medium: 7, Hard: 0)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-09-27 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-27 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-27 |
-| 268 | [Missing Number](268-missing-number/) | Easy | 2026-09-27 |
 <!-- LEETHUB:TABLE:END -->
