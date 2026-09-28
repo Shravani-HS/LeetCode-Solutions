@@ -7,6 +7,7 @@ Solved: 19 (Easy: 12, Medium: 7, Hard: 0)
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-09-28 |
+| 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 2026-09-28 |
 | 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-09-28 |
 | 49 | [Group Anagrams](49-group-anagrams/) | Medium | 2026-09-28 |
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-28 |
@@ -24,5 +25,4 @@ Solved: 19 (Easy: 12, Medium: 7, Hard: 0)
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-09-28 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-28 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-28 |
-| 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 2026-09-28 |
 <!-- LEETHUB:TABLE:END -->
